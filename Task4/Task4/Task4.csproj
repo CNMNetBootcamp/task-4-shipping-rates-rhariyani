@@ -9,4 +9,8 @@
     <None Remove="Task3.rap" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\rishi\Desktop\deep dive\projects\task4.cs" Link="task4.cs" />
+  </ItemGroup>
+
 </Project>
