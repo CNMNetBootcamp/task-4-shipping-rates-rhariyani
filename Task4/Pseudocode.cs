@@ -1,39 +1,43 @@
-//set up
+////set up
 
-double packageweigt = 0.0;
-double cost = 0.0;
-
-
-
-// input
-
-    "Please enter packageweight?"
+//double packageweigt = 0.0;
+//double cost = 0.0;
 
 
-//process
 
-cost = packageweight* rate // i have directly used price in numeric to condition;
+//// input
+
+//("Please enter packageweight?");
 
 
-    if(packageweight<=2);
-    {
-       cost= packagewwight*2;
-    }
+////process
 
-    else if(packageweight<=5);
-    {
-          cost= packagewwight*4;
-    }
+//    cost = packageweight* rate // i have directly used price in numeric to condition;
 
-    else if(packageweight<=10);
-cost= packagewwight*6;
 
-    else 
-cost= packagewwight*8;
+//    if(packageweight<=2);
+//    {
+//       cost= packagewwight*2;
+//    }
 
-//output
+//    else if(packageweight<=5);
+//    {
+//          cost= packagewwight*4;
+//    }
 
-    put "This is the Cost to ship your package:" + cost;
+//    else if(packageweight<=10);
+//    {
+//        cost= packagewwight*6;
+//    }
+
+//    else 
+//    {
+//        cost= packagewwight*8;
+//    }
+
+////output
+
+//    put "This is the Cost to ship your package:" + cost;
 
 
     // I know there is complex method to calculate shipping .
