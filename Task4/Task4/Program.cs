@@ -6,6 +6,7 @@ namespace Task4
     {
         static void Main(string[] args)
         {
+            //TODO: Code Doesn't compile so I can't run it. 
             double packageweigt = 0.0;
             double cost = 0.0;
 
@@ -26,6 +27,7 @@ namespace Task4
                 cost = packageweigt * 6;
             
             }
+
             else
             {
                 cost = packageweigt * 8;
