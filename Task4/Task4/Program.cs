@@ -6,6 +6,7 @@ namespace Task4
     {
         static void Main(string[] args)
         {
+            //Good
             //TODO: Code Doesn't compile so I can't run it. 
             double packageweigt = 0.0;
             double cost = 0.0;
